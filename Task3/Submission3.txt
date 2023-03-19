@@ -1,0 +1,28 @@
+Submission 3: Book chapter presentation
+Chapter 7: 	Lexicons for Sentiment, Affect, and Connotation
+
+
+Link to unlisted youtube video: 
+
+
+Two public links to the Concept Map (anyone on the internet can view without login): 
+PDF: https://github.com/ 
+Native/original format: https://draw.io/...
+
+Name, Author, Edition, year and publisher of the Book: 
+Name: Speech and Language Processing
+Author: Dan Jurafsky and James H. Martin
+Edition: 3rd
+Year: 2023
+Publisher: Pearson
+
+Link to the book: https://web.stanford.edu/~jurafsky/slp3/
+
+Link to the book chapter: https://web.stanford.edu/~jurafsky/slp3/25.pdf
+
+Group Number: 14
+
+Group Member: 
+20101250 Fahad Khan Raj
+22241158 Sabrina Tabassum
+20301378 Md Farhad Mahamud
