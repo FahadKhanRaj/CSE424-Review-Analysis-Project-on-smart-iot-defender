@@ -1,14 +1,14 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/bD6Zi3vjmvA
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1pl64k3EBfvFzlyEvXBoRbRXa9rQbg7B49AhA6Y1SLk4/
 
 Paper title: A Hybrid Deep Learning Approach for Replay and DDoS Attack Detection in a Smart City
 
 
 Link to the paper:
- https://ieeexplore.ieee.org/document/9617591
+https://ieeexplore.ieee.org/document/9617591
 
 Group Number:
 14
