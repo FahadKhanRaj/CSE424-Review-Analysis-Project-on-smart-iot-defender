@@ -1,14 +1,14 @@
 
 Submission 3: Book chapter presentation
-Chapter 25: Lexicons for Sentiment, Affect, and Connotation
+Chapter 26: Coreference Resolution
 
 
 Link to unlisted youtube video: 
+https://youtu.be/P9znhFLQU1A
 
 
 Two public links to the Concept Map (anyone on the internet can view without login): 
-PDF: https://github.com/ 
-Native/original format: https://draw.io/...
+PDF: https://github.com/fahadkhanraj/CSE424/blob/main/Task3/task3%20pdf.pdf
 
 Name, Author, Edition, year and publisher of the Book: 
 Name: Speech and Language Processing
