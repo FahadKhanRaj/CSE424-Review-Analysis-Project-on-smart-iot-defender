@@ -1,23 +1,16 @@
-Early Submitted for Bonus.
+Overleaf link:
+https://www.overleaf.com/read/sfczhytkxjzc
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/ex4zYhs5_RU
 
+Public link to the slide :
+https://docs.google.com/presentation/d/1KDIheNjvQytVDtqODQZ4kle28eTmf9FVSFw7rZE7jPI/edit?usp=sharing
 
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+Project title:
+Classification And Explanation of Different Internet of Things (IoT) Network Attacks Using Machine Learning, Deep Learning And XAI
 
-
-Paper title:
-Effective Attack Detection in Internet of Medical Things Smart Environment Using a Deep Belief Neural Network
-
-
-Link to the paper:
-https://ieeexplore.ieee.org/document/9057709
-
-
-Group Number:
-14
-
-Individual Submitter:
-20101250 Fahad Khan Raj 1
+Group Number:14
+22241158 Sabrina Tabassum
+20101250 Fahad Khan Raj
+20301378 Md. Farhad Mahamud
