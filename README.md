@@ -1,4 +1,4 @@
-# IoT-ML-Security-Projects
+# IoT-ML-Security-Projects Review Analysis
 
 This repository contains my university project on CSE424 Pattern Recognition, focused on Internet of Things (IoT) security using Machine Learning (ML), Deep Learning (DL), and Explainable AI (XAI). It includes papers, presentations, concept maps, and certificates.
 
