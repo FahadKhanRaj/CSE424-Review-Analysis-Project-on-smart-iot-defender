@@ -11,6 +11,10 @@ This repository contains my university project on CSE424 Pattern Recognition, fo
 - [📄 Paper (Overleaf)](https://www.overleaf.com/read/sfczhytkxjzc)  
 - [📽️ Video](https://youtu.be/ex4zYhs5_RU)  
 - [📊 Slides](https://docs.google.com/presentation/d/1KDIheNjvQytVDtqODQZ4kle28eTmf9FVSFw7rZE7jPI/edit?usp=sharing)
+  
+![image](https://github.com/user-attachments/assets/0c4723ee-0ea9-4210-8181-b20615a1522e)
+![image](https://github.com/user-attachments/assets/572cd594-2098-4057-be65-1c4cc2bbfb74)
+
 
 ---
 
@@ -20,6 +24,8 @@ This repository contains my university project on CSE424 Pattern Recognition, fo
 - [📽️ Video](https://youtu.be/bD6Zi3vjmvA)  
 - [📊 Slides](https://docs.google.com/presentation/d/1pl64k3EBfvFzlyEvXBoRbRXa9rQbg7B49AhA6Y1SLk4/)
 
+![image](https://github.com/user-attachments/assets/7e03283d-46c0-427d-ab36-f8da4b2493ac)
+
 ---
 
 ### ✅ NLP Concept Map
@@ -28,6 +34,8 @@ This repository contains my university project on CSE424 Pattern Recognition, fo
 - 📘 [Book Link](https://web.stanford.edu/~jurafsky/slp3/)  
 - 📄 [Chapter](https://web.stanford.edu/~jurafsky/slp3/25.pdf)  
 - 🗺️ [Concept Map PDF](https://github.com/fahadkhanraj/CSE424/blob/main/Task3/task3%20pdf.pdf)
+
+![image](https://github.com/user-attachments/assets/ceb9a485-a300-4e3f-a9ad-2446aa392dea)
 
 ---
 
@@ -40,6 +48,9 @@ This repository contains my university project on CSE424 Pattern Recognition, fo
 - 🔗 [EDAS Submission](https://edas.info/)
 
 ---
+
+![image](https://github.com/user-attachments/assets/b7d0787c-16cc-4540-9d80-77052c799008)
+
 
 ### ✅ Certificates Collection
 **Content:** Certificates related to AI, ML, and IoT (To be added as PDF or image format in a `/certificates` folder)
